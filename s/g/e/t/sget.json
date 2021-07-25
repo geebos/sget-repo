@@ -1,0 +1,7 @@
+{
+    "name": "sget",
+    "author": "geebos",
+    "git": "https://github.com/geebos/sget",
+    "pkg_path": "github.com/geebos/sget",
+    "desc": "a simplify go-get tool"
+}
